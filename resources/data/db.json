@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "thumbnail": "C:\\Users\\Witcha3\\Desktop\\test-web-hello\\resources\\images\\product\\1.jpg",
+      "productName": "a",
+      "unitPrice": "2",
+      "id": 1
+    },
+    {
+      "thumbnail": "C:\\Users\\Witcha3\\Desktop\\test-web-hello\\resources\\images\\product\\1.jpg",
+      "productName": "33",
+      "unitPrice": "3333",
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "orderedDate": "2019-02-15T02:59:11.404Z",
+      "totalPrice": 270,
+      "orders": [
+        {
+          "product": {
+            "productName": "ไก่ทอด",
+            "unitPrice": "90",
+            "thumbnail": "/images/product/1.jpg",
+            "id": 1
+          },
+          "quantity": 3
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
